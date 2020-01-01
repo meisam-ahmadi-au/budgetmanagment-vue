@@ -23,7 +23,10 @@
       Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur
       laudantium vero nam fugit odit neque, sunt, quibusdam mollitia enim cumque
       temporibus, ducimus cupiditate aliquam illum accusantium ullam impedit
-      fuga molestiae?
+      fuga molestiae? Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Architecto nihil non cupiditate laboriosam, repellendus quidem molestiae
+      totam illum, nisi deserunt at natus, exercitationem impedit eligendi
+      dolorem inventore sed qui mollitia!
     </p>
     <button @click="navigateToHome">navigate to home</button>
   </div>
