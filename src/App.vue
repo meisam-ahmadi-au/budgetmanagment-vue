@@ -1,6 +1,6 @@
 <template>
   <div class="contianer">
-    <h1>The Home Page</h1>
+    <h1>The Home Page 11</h1>
     <p>id is: {{ id }}</p>
     <ul class="nav nav-pills">
       <router-link to="/user/1" tag="li" active-class="active" exact
